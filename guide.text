@@ -1,0 +1,13 @@
+Maaz Jafrani:
+main.py:
+1. import all the required libraries and the google chrome driver
+2. add your login credentials as email and password on a text file
+3. run through terminal and it would open a google chrome window
+4. Once logged in you need to go to the terminal of visual code from where you are running your program from.
+5. to search a query, you would be asked to write in the terminal for what to search, hence write, for example, "ceo of tech companies'
+    then it would search and using beautifulsoup library it would print all the ceo's profile url links in the terminal.
+searchEmail.py:
+1.It would open the contactout.com and read data such as "title and name"  from output.csv, and
+would input in the search bars and then extract the email of the person.
+
+Enjoy!!!

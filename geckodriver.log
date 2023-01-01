@@ -1,0 +1,1080 @@
+1672497766629	geckodriver	INFO	Listening on 127.0.0.1:52892
+1672497988579	geckodriver	INFO	Listening on 127.0.0.1:53099
+1672497991630	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53100" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileaIMlOw"
+1672497991946	Marionette	INFO	Marionette enabled
+1672497991951	Marionette	INFO	Listening on port 53110
+Read port: 53110
+WebDriver BiDi listening on ws://127.0.0.1:53100
+1672497992054	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileaIMlOw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53100/devtools/browser/902a0cc4-03d0-45b5-afd1-39572a1811f4
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+console.warn: "Listener for event 'frame' did not return a promise."
+1672498226814	geckodriver	INFO	Listening on 127.0.0.1:53285
+1672498229901	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53286" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofile22VHmG"
+1672498230342	Marionette	INFO	Marionette enabled
+1672498230347	Marionette	INFO	Listening on port 53295
+Read port: 53295
+WebDriver BiDi listening on ws://127.0.0.1:53286
+1672498231212	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofile22VHmG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53286/devtools/browser/7abc2d6d-85a7-47b6-abfe-eea549840199
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+1672498286988	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+1672498296232	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+1672498304840	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1672498320752	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1672498336392	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1672498357864	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1672498374781	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1672499340505	geckodriver	INFO	Listening on 127.0.0.1:53717
+1672499345316	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53718" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofiletnVINZ"
+1672499346411	Marionette	INFO	Marionette enabled
+1672499346425	Marionette	INFO	Listening on port 53728
+Read port: 53728
+WebDriver BiDi listening on ws://127.0.0.1:53718
+1672499346950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofiletnVINZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53718/devtools/browser/b7cf51c7-9222-4db2-94f1-cc754fd38ace
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+1672499368643	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+1672499374549	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+1672499411818	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+1672499456289	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1672499475745	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1672499492382	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1672499512014	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1672499525982	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1672499534476	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1672499561700	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1672499634752	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://static.licdn.com/sc/h/b36st34lqx8hvhg4m1f4yjh8p, line 1570: MDError: [web-messenger-data] Failed to parse a JSON response - getMailboxUnreadCounts (102) - The operation was aborted. 
+1672499652050	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1672499671521	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1672499706407	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1672499726660	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1672499742172	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1672500132792	Marionette	INFO	Stopped listening on port 53728
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672500267511	geckodriver	INFO	Listening on 127.0.0.1:51399
+1672500271087	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51400" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofilerLtlTE"
+1672500275414	Marionette	INFO	Marionette enabled
+1672500275426	Marionette	INFO	Listening on port 51411
+Read port: 51411
+WebDriver BiDi listening on ws://127.0.0.1:51400
+1672500275645	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofilerLtlTE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51400/devtools/browser/3f6b57d8-9ec0-4fe3-b9eb-1485265efe4b
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+1672500313047	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1672500369814	Marionette	INFO	Stopped listening on port 51411
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51515" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofilerqp4lb"
+1672500362923	Marionette	INFO	Marionette enabled
+1672500362928	Marionette	INFO	Listening on port 51524
+Read port: 51524
+WebDriver BiDi listening on ws://127.0.0.1:51515
+1672500363532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofilerqp4lb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51515/devtools/browser/64adbfc4-3e54-47be-a38a-acbaabedcee3
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+1672500386961	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1672500469022	Marionette	INFO	Stopped listening on port 51524
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofilerLBgo7"
+1672500467502	Marionette	INFO	Marionette enabled
+1672500467506	Marionette	INFO	Listening on port 51631
+WebDriver BiDi listening on ws://127.0.0.1:51622
+Read port: 51631
+1672500469586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofilerLBgo7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51622/devtools/browser/9325c94b-6ae7-4ae3-9af3-bd8ed97aa559
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+1672500489749	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1672501194931	Marionette	INFO	Stopped listening on port 51631
+ror("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofilewCq2Ys\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51807/devtools/browser/0ac4c230-a6e7-450b-9552-68bce0cd5f50
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+1672500756604	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+1672500821190	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1672500838921	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1672500866096	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1672500879965	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1672500891604	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1672500904897	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://static.licdn.com/sc/h/b36st34lqx8hvhg4m1f4yjh8p, line 1570: MDError: [web-messenger-data] Failed to parse a JSON response - getMailboxUnreadCounts (102) - The operation was aborted. 
+1672500946680	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://static.licdn.com/sc/h/b36st34lqx8hvhg4m1f4yjh8p, line 1570: MDError: [web-messenger-data] Failed to parse a JSON response - getMailboxUnreadCounts (102) - The operation was aborted. 
+1672500988879	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1672501003194	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://static.licdn.com/sc/h/b36st34lqx8hvhg4m1f4yjh8p, line 1570: MDError: [web-messenger-data] Failed to parse a JSON response - getMailboxUnreadCounts (102) - The operation was aborted. 
+JavaScript error: https://static.licdn.com/sc/h/b36st34lqx8hvhg4m1f4yjh8p, line 1570: MDError: [web-messenger-data] Network Error - getMailboxUnreadCounts (104) - NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+1672504307470	Marionette	INFO	Stopped listening on port 51816
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672504315531	geckodriver	INFO	Listening on 127.0.0.1:52344
+1672504319256	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52345" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileiaUpTF"
+1672504323834	Marionette	INFO	Marionette enabled
+1672504323857	Marionette	INFO	Listening on port 52355
+Read port: 52355
+WebDriver BiDi listening on ws://127.0.0.1:52345
+Read port: 52355
+1672504327657	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileiaUpTF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52345/devtools/browser/a78826d6-d12a-4c42-a559-6b807c896f3f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+1672504904977	Marionette	INFO	Stopped listening on port 52355
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672504912938	geckodriver	INFO	Listening on 127.0.0.1:52560
+1672504915998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52561" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofiletc91xc"
+1672504916426	Marionette	INFO	Marionette enabled
+1672504916430	Marionette	INFO	Listening on port 52570
+Read port: 52570
+WebDriver BiDi listening on ws://127.0.0.1:52561
+1672504916554	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofiletc91xc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52561/devtools/browser/d8b61ff2-fa16-4115-9ef6-97a655563f07
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: uncaught exception: Timeout (i)
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2398))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 572))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 572))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 572))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 572))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 572))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 572))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 572))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 572))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2398))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2398))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:93:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:182:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:707:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:340:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 93, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 93))
+console.error: "Error while calling actor 'domwalker's method 'getEmbedderElement'" "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode]"
+console.error: ({})
+console.warn: "Error while destroying front:" "inspector" (new Error("Protocol error (NS_ERROR_FAILURE): Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode] from: server0.conn0.windowGlobal4294967311/domwalker94 (resource://devtools/server/actors/inspector/document-walker.js:77:0)", "resource://devtools/shared/protocol/Front.js", 383))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Protocol error (NS_ERROR_FAILURE): Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode] from: server0.conn0.windowGlobal4294967311/domwalker94 (resource://devtools/server/actors/inspector/document-walker.js:77:0)", "resource://devtools/shared/protocol/Front.js", 383))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 383: Error: Protocol error (NS_ERROR_FAILURE): Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode] from: server0.conn0.windowGlobal4294967311/domwalker94 (resource://devtools/server/actors/inspector/document-walker.js:77:0)
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967468/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:91:30\ninitialize@resource://devtools/client/fronts/inspector.js:80:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967468/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:91:30\ninitialize@resource://devtools/client/fronts/inspector.js:80:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal4294967468/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:300:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+_getWalker@resource://devtools/client/fronts/inspector.js:91:30
+initialize@resource://devtools/client/fronts/inspector.js:80:12
+
+JavaScript error: resource://devtools/server/actors/inspector/walker.js, line 202: TypeError: targetActor is null
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967457/layout31, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:452:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967457/layout31, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:452:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: , line 0: uncaught exception: Timeout (i)
+JavaScript error: , line 0: uncaught exception: Timeout (i)
+JavaScript error: , line 0: uncaught exception: Timeout (i)
+JavaScript error: , line 0: uncaught exception: Timeout (i)
+JavaScript error: , line 0: uncaught exception: Timeout (i)
+JavaScript error: , line 0: uncaught exception: Timeout (i)
+JavaScript error: , line 0: uncaught exception: Timeout (i)
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1672509705661	geckodriver	INFO	Listening on 127.0.0.1:53378
+1672509708774	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53379" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofilegk2QcF"
+1672509710773	Marionette	INFO	Marionette enabled
+1672509710782	Marionette	INFO	Listening on port 53389
+WebDriver BiDi listening on ws://127.0.0.1:53379
+Read port: 53389
+1672509711746	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofilegk2QcF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53379/devtools/browser/460c82bd-c6c6-4135-a658-9113b6972879
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+1672509920170	Marionette	INFO	Stopped listening on port 53389
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "53511" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofilewyeQBP"
+1672509915801	Marionette	INFO	Marionette enabled
+1672509915805	Marionette	INFO	Listening on port 53520
+Read port: 53520
+WebDriver BiDi listening on ws://127.0.0.1:53511
+1672509916086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofilewyeQBP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53511/devtools/browser/5c150b36-46ca-4959-bc5c-01f2fc8d98ba
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+JavaScript error: https://contactout.com/js/dashboard/app.js?id=8e80b9c04f5c0b41f12a, line 2: Error: Request aborted
+1672510242437	Marionette	INFO	Stopped listening on port 53521672510242929	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53678" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofile4u1ZAT"
+1672510243433	Marionette	INFO	Marionette enabled
+1672510243438	Marionette	INFO	Listening on port 53688
+WebDriver BiDi listening on ws://127.0.0.1:53678
+Read port: 53688
+1672510244660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofile4u1ZAT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53678/devtools/browser/e5414465-dbc8-4b49-ba8f-9f6f385fd434
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+1672511531173	Marionette	INFO	Stopped listening on port 53688
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "53792" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofile7t5B2s"
+1672510337352	Marionette	INFO	Marionette enabled
+1672510337359	Marionette	INFO	Listening on port 53801
+WebDriver BiDi listening on ws://127.0.0.1:53792
+Read port: 53801
+1672510338968	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofile7t5B2s\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53792/devtools/browser/bdc48b85-07d1-4583-a273-72d045c9fa90
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+1672510459893	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+1672511531931	geckodriver	INFO	Listening on 127.0.0.1:54075
+1672511536817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54076" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileKLPYbd"
+1672511538950	Marionette	INFO	Marionette enabled
+1672511538955	Marionette	INFO	Listening on port 54086
+Read port: 54086
+WebDriver BiDi listening on ws://127.0.0.1:54076
+1672511539066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileKLPYbd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54076/devtools/browser/8348c1b3-8aa4-4ec8-932e-8c4be6f25d8a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1672511772928	Marionette	INFO	Stopped listening on port 54081672511773610	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54243" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileA4Cjnn"
+1672511774006	Marionette	INFO	Marionette enabled
+1672511774014	Marionette	INFO	Listening on port 54253
+Read port: 54253
+WebDriver BiDi listening on ws://127.0.0.1:54243
+1672511774189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileA4Cjnn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54243/devtools/browser/aa780afb-1ce1-4e97-a491-5b7da63d9cb9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+1672511988164	Marionette	INFO	Stopped listening on port 54251672511988993	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54384" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileeUbm7A"
+1672511989474	Marionette	INFO	Marionette enabled
+1672511989478	Marionette	INFO	Listening on port 54394
+WebDriver BiDi listening on ws://127.0.0.1:54384
+Read port: 54394
+1672511990037	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileeUbm7A\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54384/devtools/browser/b00db8dc-5330-4f2c-8990-8695827ec4fd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: https://fast.wistia.net/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: https://fast.wistia.net/assets/external/E-v1.js, line 1: uncaught exception: error
+1672512310931	Marionette	INFO	Stopped listening on port 54391672512311715	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54534" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileVjnQS6"
+1672512313077	Marionette	INFO	Marionette enabled
+1672512313085	Marionette	INFO	Listening on port 54544
+Read port: 54544
+WebDriver BiDi listening on ws://127.0.0.1:54534
+1672512313268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileVjnQS6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54534/devtools/browser/080d1172-407f-4f32-a5b4-ead05af30b5a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+1672512516979	Marionette	INFO	Stopped listening on port 54541672512518043	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54682" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileD0s1v4"
+1672512518439	Marionette	INFO	Marionette enabled
+1672512518446	Marionette	INFO	Listening on port 54692
+Read port: 54692
+WebDriver BiDi listening on ws://127.0.0.1:54682
+1672512518615	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileD0s1v4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54682/devtools/browser/4f023563-23b9-4273-8b9d-04eb8c6058fa
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+1672512584988	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1672512595379	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1672512605964	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1672512616266	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1672512623501	Marionette	INFO	Stopped listening on port 54692
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672512702336	geckodriver	INFO	Listening on 127.0.0.1:54861
+1672512705406	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54862" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofilerSCnpr"
+1672512706323	Marionette	INFO	Marionette enabled
+1672512706327	Marionette	INFO	Listening on port 54871
+WebDriver BiDi listening on ws://127.0.0.1:54862
+Read port: 54871
+1672512707477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofilerSCnpr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54862/devtools/browser/315a9586-60e8-4364-a86a-6f1ed23f9d06
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+1672512826935	Marionette	INFO	Stopped listening on port 54871672512828170	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54978" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofile8nu8zO"
+1672512828592	Marionette	INFO	Marionette enabled
+1672512828597	Marionette	INFO	Listening on port 54988
+Read port: 54988
+WebDriver BiDi listening on ws://127.0.0.1:54978
+1672512828687	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofile8nu8zO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54978/devtools/browser/a47e4c00-dbb1-4545-a662-7d64cc353c66
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+1672512991930	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1672513006169	Marionette	INFO	Stopped listening on port 54988
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672516824403	geckodriver	INFO	Listening on 127.0.0.1:55533
+1672516827552	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55534" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileiGm9CZ"
+1672516827940	Marionette	INFO	Marionette enabled
+1672516827944	Marionette	INFO	Listening on port 55543
+Read port: 55543
+WebDriver BiDi listening on ws://127.0.0.1:55534
+1672516828239	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileiGm9CZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55534/devtools/browser/0bb123fe-cd9f-40f1-97f1-cbfc6d78814f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+JavaScript error: https://contactout.com/js/dashboard/app.js?id=8e80b9c04f5c0b41f12a, line 2: TypeError: e.profiles[t] is undefined
+JavaScript error: https://contactout.com/js/dashboard/app.js?id=8e80b9c04f5c0b41f12a, line 2: Error: Request aborted
+1672517129412	Marionette	INFO	Stopped listening on port 55541672517129804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55744" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileuJDc4f"
+1672517130232	Marionette	INFO	Marionette enabled
+1672517130242	Marionette	INFO	Listening on port 55754
+Read port: 55754
+WebDriver BiDi listening on ws://127.0.0.1:55744
+1672517130451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileuJDc4f\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55744/devtools/browser/04ad9f4b-1b7f-4614-a8fb-029cf4314289
+1672517142125	Marionette	INFO	Stopped listening on port 55754
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1672517208890	geckodriver	INFO	Listening on 127.0.0.1:55843
+1672517211955	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55844" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofilek5p8p0"
+1672517212295	Marionette	INFO	Marionette enabled
+1672517212301	Marionette	INFO	Listening on port 55854
+WebDriver BiDi listening on ws://127.0.0.1:55844
+Read port: 55854
+Read port: 55854
+1672517214393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofilek5p8p0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55844/devtools/browser/e795e343-b02f-4d93-b35c-0d56d4e87e36
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+1672517259290	Marionette	INFO	Stopped listening on port 55854
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1672517303249	geckodriver	INFO	Listening on 127.0.0.1:56022
+1672517306307	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56023" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileiyTxBW"
+1672517307050	Marionette	INFO	Marionette enabled
+1672517307055	Marionette	INFO	Listening on port 56033
+WebDriver BiDi listening on ws://127.0.0.1:56023
+Read port: 56033
+1672517308275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileiyTxBW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56023/devtools/browser/de091d82-68e5-44e4-b02a-66ec48e082be
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?client_id=795592892216-gepsclbh86g9tvl6fo3g869ja0uv86mp.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fcontactout.com%2Fauth%2Fgoogle%2Fcallback&scope=openid+profile+email&response_type=code&prompt=select_account&state=login%3Ahome%3A0 line 2 > eval line 1894 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?client_id=795592892216-gepsclbh86g9tvl6fo3g869ja0uv86mp.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fcontactout.com%2Fauth%2Fgoogle%2Fcallback&scope=openid+profile+email&response_type=code&prompt=select_account&state=login%3Ahome%3A0 line 2 > eval line 3979 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/signin/oauth?client_id=795592892216-gepsclbh86g9tvl6fo3g869ja0uv86mp.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fcontactout.com%2Fauth%2Fgoogle%2Fcallback&scope=openid+profile+email&response_type=code&prompt=select_account&state=login%3Ahome%3A0&service=lso&o2v=1&flowName=GeneralOAuthFlow line 2 > eval line 635 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/signin/oauth?client_id=795592892216-gepsclbh86g9tvl6fo3g869ja0uv86mp.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fcontactout.com%2Fauth%2Fgoogle%2Fcallback&scope=openid+profile+email&response_type=code&prompt=select_account&state=login%3Ahome%3A0&service=lso&o2v=1&flowName=GeneralOAuthFlow line 2 > eval line 6466 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/signin/oauth?client_id=795592892216-gepsclbh86g9tvl6fo3g869ja0uv86mp.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fcontactout.com%2Fauth%2Fgoogle%2Fcallback&scope=openid+profile+email&response_type=code&prompt=select_account&state=login%3Ahome%3A0&service=lso&o2v=1&flowName=GeneralOAuthFlow line 2 > eval line 1500 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Timeout (i)
+1672518515304	Marionette	INFO	Stopped listening on port 56031672518516600	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57024" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofilejWNd4m"
+1672518519222	Marionette	INFO	Marionette enabled
+1672518519227	Marionette	INFO	Listening on port 57035
+Read port: 57035
+WebDriver BiDi listening on ws://127.0.0.1:57024
+1672518519427	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofilejWNd4m\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57024/devtools/browser/ca970e4a-c4ae-43ee-b8cf-5a708f4394ea
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+1672518857150	Marionette	INFO	Stopped listening on port 5703167console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "57166" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofile8mGDt3"
+1672518857652	Marionette	INFO	Marionette enabled
+1672518857660	Marionette	INFO	Listening on port 57176
+Read port: 57176
+WebDriver BiDi listening on ws://127.0.0.1:57166
+1672518857921	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofile8mGDt3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57166/devtools/browser/bf4e10fd-52ff-46f2-8da8-53133f2fc143
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+1672575390862	geckodriver	INFO	Listening on 127.0.0.1:56238
+1672575393896	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56239" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileJ0z54W"
+1672575395181	Marionette	INFO	Marionette enabled
+1672575395185	Marionette	INFO	Listening on port 56248
+Read port: 56248
+WebDriver BiDi listening on ws://127.0.0.1:56239
+1672575395415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileJ0z54W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56239/devtools/browser/df87dce5-07ed-4d69-a51a-37fbecc71f61
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+1672575736039	Marionette	INFO	Stopped listening on port 56248
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56395" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileODcNKI"
+1672575665698	Marionette	INFO	Marionette enabled
+1672575665702	Marionette	INFO	Listening on port 56404
+WebDriver BiDi listening on ws://127.0.0.1:56395
+Read port: 56404
+1672575666249	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileODcNKI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56395/devtools/browser/ddb83efd-09a2-4a39-abbb-54da9cb04f90
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+1672576037582	Marionette	INFO	Stopped listening on port 56401672576038254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56576" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileLDqNJ1"
+1672576038721	Marionette	INFO	Marionette enabled
+1672576038727	Marionette	INFO	Listening on port 56586
+WebDriver BiDi listening on ws://127.0.0.1:56576
+Read port: 56586
+1672576039138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileLDqNJ1\\search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 762))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+DevTools listening on ws://127.0.0.1:56576/devtools/browser/e9d0ebcc-42f5-444e-8ce0-91ea1a081d0f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+1672577188707	Marionette	INFO	Stopped listening on port 56586
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileCEvnMh"
+1672576161984	Marionette	INFO	Marionette enabled
+1672576161990	Marionette	INFO	Listening on port 56722
+WebDriver BiDi listening on ws://127.0.0.1:56713
+Read port: 56722
+1672576163523	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileCEvnMh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56713/devtools/browser/b896dab2-b360-4ef1-828f-733f2497f92b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+1672577187567	Marionette	INFO	Stopped listening on port 56722
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56883" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofilevTvCNI"
+1672576552402	Marionette	INFO	Marionette enabled
+1672576552409	Marionette	INFO	Listening on port 56897
+WebDriver BiDi listening on ws://127.0.0.1:56883
+Read port: 56897
+1672576554865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofilevTvCNI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56883/devtools/browser/5f69c504-a1f7-4039-829b-1168607d366d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+JavaScript error: https://contactout.com/js/dashboard/app.js?id=8e80b9c04f5c0b41f12a, line 2: Error: Request aborted
+1672577186850	Marionette	INFO	Stopped listening on port 56897
+2576781430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57061" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileadGeDF"
+1672576783089	Marionette	INFO	Marionette enabled
+1672576783098	Marionette	INFO	Listening on port 57070
+WebDriver BiDi listening on ws://127.0.0.1:57061
+Read port: 57070
+1672576785154	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileadGeDF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57061/devtools/browser/9a52e6e0-e2a6-42b4-9c45-e2f7eb694cf1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+1672577190490	Marionette	INFO	Stopped listening on port 57070
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileoZDCye"
+1672576929330	Marionette	INFO	Marionette enabled
+1672576929335	Marionette	INFO	Listening on port 57205
+WebDriver BiDi listening on ws://127.0.0.1:57196
+Read port: 57205
+1672576931521	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileoZDCye\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57196/devtools/browser/656555bd-16f2-479a-8fa4-aef64f0c457a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+1672577192030	Marionette	INFO	Stopped listening on port 57205
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1672577211999	geckodriver	INFO	Listening on 127.0.0.1:57411
+1672577214417	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57412" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofile8FsmkN"
+1672577215557	Marionette	INFO	Marionette enabled
+1672577215563	Marionette	INFO	Listening on port 57423
+WebDriver BiDi listening on ws://127.0.0.1:57412
+Read port: 57423
+1672577216316	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofile8FsmkN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57412/devtools/browser/657add2a-ad61-4902-bbc4-e9b335563c25
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+1672577262533	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1672577274831	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1672577287335	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1672577366083	Marionette	INFO	Stopped listening on port 57423
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofile3K2hpJ"
+1672577356041	Marionette	INFO	Marionette enabled
+1672577356047	Marionette	INFO	Listening on port 57603
+Read port: 57603
+WebDriver BiDi listening on ws://127.0.0.1:57593
+1672577356179	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofile3K2hpJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57593/devtools/browser/d9e67f28-e2a1-49c9-88ce-064959cdadfc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+1672577385456	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1672577404855	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1672577417214	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1672577429516	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1672577554176	Marionette	INFO	Stopped listening on port 57603
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672577560239	geckodriver	INFO	Listening on 127.0.0.1:57805
+1672577563544	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57806" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofilehnpr4N"
+1672577564323	Marionette	INFO	Marionette enabled
+1672577564327	Marionette	INFO	Listening on port 57818
+WebDriver BiDi listening on ws://127.0.0.1:57806
+Read port: 57818
+1672577565567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofilehnpr4N\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57806/devtools/browser/b662b52f-8d84-4600-ae90-650de0f3c1d5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+1672577922722	Marionette	INFO	Stopped listening on port 57818
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofilerTT9qQ"
+1672577923903	Marionette	INFO	Marionette enabled
+1672577923908	Marionette	INFO	Listening on port 58029
+Read port: 58029
+WebDriver BiDi listening on ws://127.0.0.1:58019
+1672577924065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofilerTT9qQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58019/devtools/browser/9c997d66-9227-48c1-8ac3-2f78f2f64984
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+1672578332956	Marionette	INFO	Stopped listening on port 58029
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileRfwv9i"
+1672578206031	Marionette	INFO	Marionette enabled
+1672578206188	Marionette	INFO	Listening on port 58175
+WebDriver BiDi listening on ws://127.0.0.1:58167
+Read port: 58175
+1672578207437	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileRfwv9i\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58167/devtools/browser/784ba629-fa84-4b8e-89c6-68d79d716093
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+1672578227072	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1672578242001	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1672578254237	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1672578266460	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1672578331911	Marionette	INFO	Stopped listening on port 58175
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672578531024	geckodriver	INFO	Listening on 127.0.0.1:58363
+1672578534117	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58364" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofiletUrcij"
+1672578534542	Marionette	INFO	Marionette enabled
+1672578534548	Marionette	INFO	Listening on port 58373
+Read port: 58373
+WebDriver BiDi listening on ws://127.0.0.1:58364
+1672578534653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofiletUrcij\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58364/devtools/browser/75bcff74-ae86-494f-8f48-54c6fd48a99d
+1672578540716	Marionette	INFO	Stopped listening on port 58373
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1672578557665	geckodriver	INFO	Listening on 127.0.0.1:58415
+1672578560726	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58416" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofile9lEUCk"
+1672578561069	Marionette	INFO	Marionette enabled
+1672578561073	Marionette	INFO	Listening on port 58426
+WebDriver BiDi listening on ws://127.0.0.1:58416
+Read port: 58426
+1672578561966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofile9lEUCk\\search.json.mozlz4", (void 0)))
+1672578566385	Marionette	INFO	Stopped listening on port 58426
+1672578566391	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 635: TypeError: this.browsingContext is null
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 635: TypeError: this.browsingContext is null
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+1672578590450	geckodriver	INFO	Listening on 127.0.0.1:58457
+1672578593492	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58458" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofilem4x7Tk"
+1672578593983	Marionette	INFO	Marionette enabled
+1672578593988	Marionette	INFO	Listening on port 58470
+Read port: 58470
+WebDriver BiDi listening on ws://127.0.0.1:58458
+1672578594117	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofilem4x7Tk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58458/devtools/browser/e0b7a7fd-13f2-44c8-b10f-86abbcf5a986
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+1672578627874	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1672578839090	Marionette	INFO	Stopped listening on port 58471672578839843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58615" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofilexEbqgL"
+1672578840267	Marionette	INFO	Marionette enabled
+1672578840274	Marionette	INFO	Listening on port 58625
+Read port: 58625
+WebDriver BiDi listening on ws://127.0.0.1:58615
+1672578840397	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofilexEbqgL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58615/devtools/browser/038b806c-bd7e-46d9-8681-b573ea3d8a1c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+1672578860529	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1672578888669	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1672578947751	Marionette	INFO	Stopped listening on port 58625
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672578952571	geckodriver	INFO	Listening on 127.0.0.1:58755
+1672578955652	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58756" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofilenP2zGi"
+1672578956114	Marionette	INFO	Marionette enabled
+1672578956120	Marionette	INFO	Listening on port 58765
+WebDriver BiDi listening on ws://127.0.0.1:58756
+Read port: 58765
+1672578957850	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofilenP2zGi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58756/devtools/browser/7c26e938-f4f4-4134-b61b-398bfb6f92b9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+1672579024074	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1672579036542	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1672579049579	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1672579062172	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1672579074705	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1672579087771	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1672579100431	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1672579115130	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1672579219503	Marionette	INFO	Stopped listening on port 58765
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672579250479	geckodriver	INFO	Listening on 127.0.0.1:58942
+1672579253564	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58943" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofiledNlPeH"
+1672579254396	Marionette	INFO	Marionette enabled
+1672579254402	Marionette	INFO	Listening on port 58953
+Read port: 58953
+WebDriver BiDi listening on ws://127.0.0.1:58943
+1672579255210	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofiledNlPeH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58943/devtools/browser/47fd3191-9bad-4401-bb88-63559d4ed825
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contactout.com."
+1672579310508	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1672579313237	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1672579336042	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1672579348713	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1672579361307	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://contactout.com/js/dashboard/app.js?id=8e80b9c04f5c0b41f12a, line 2: TypeError: e.profiles[t] is undefined
+1672579373916	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1672579386117	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
