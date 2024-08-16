@@ -25,7 +25,7 @@ driver.get(url)
 sleep(2)
 
 # # Task 1.2: Import username and password
-credential = open('login_credentials.txt') # login credential in a text file 
+credential = open('login_credentials.txt') # login credential in a text file where you have your user name and password in seperate lines e.g first line write email and second line password
 line = credential.readlines()
 username = line[0]  
 password = line[1]
